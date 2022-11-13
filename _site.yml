@@ -1,0 +1,14 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Amy Adyanthaya"
+      href: IMG_7958.html
+    - text: "Where I am from"
+      href: WhereAreYouFrom.html
+    - text: "Intrests"
+      href: FreeTime.html
+    - text: "Work Status"
+      href: Work.html
+    - text: "Education"
+      href: School.html
